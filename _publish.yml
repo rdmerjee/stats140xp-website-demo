@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a7233c81-c6a4-4985-a0f2-61cb47bd037e
+      url: https://rikmukherjee.netlify.app

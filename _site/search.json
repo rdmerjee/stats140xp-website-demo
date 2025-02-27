@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.31092003 0.22082798 0.78520018 0.80436742 0.70853597 0.32195159\n [7] 0.94267035 0.30867290 0.95202166 0.09027499"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rik Mukherjee",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
