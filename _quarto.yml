@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "Rik_Mukherjee_Official_Resume_copy.pdf"
 
 website:
   title: "personal-website"
