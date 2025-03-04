@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rik Mukherjee – personal-website</title>
+<title>courses – personal-website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -70,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -88,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -96,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.html"> 
+    <a class="nav-link active" href="./courses.html" aria-current="page"> 
 <span class="menu-text">Courses</span></a>
   </li>  
 </ul>
@@ -110,44 +111,35 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#relevant-courses" id="toc-relevant-courses" class="nav-link active" data-scroll-target="#relevant-courses">Relevant Courses</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="profile-pic.png" class="about-image
-  rounded " style="width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Rik Mukherjee</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="https://github.com/rdmerjee" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://www.linkedin.com/in/rik-mukherjee/" class="about-link" rel="" target="">
-    <i class="bi bi-inbox-fill"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="mailto:rmukherjee@g.ucla.edu" class="about-link" rel="" target="">
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="/Rik_Mukherjee_Official_Resume_copy.pdf" class="about-link" rel="" target="">
-     <span class="about-link-text">CV</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Education: UCLA, Statistics and Data Science, Class of 2026</p>
-<p>I’m passionate about using data to drive insights and make informed decisions. I have experience in sports analytics, healthcare, and machine learning, and am eager to apply my skills in projects that have real-world applications. I am currently seeking internship opportunities to further develop my knowledge and contribute to a dynamic team. I am excited to collaborate, learn, and grow in the field of data science!</p>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
-</main></div>
-</div>
- <!-- /main -->
+
+
+<section id="relevant-courses" class="level2">
+<h2 class="anchored" data-anchor-id="relevant-courses">Relevant Courses</h2>
+<p>STATS 20: Computational Statistics and Statistical Programming with R</p>
+<p>STATS 21: Python &amp; Technologies for Data Science</p>
+<p>PIC 10A: Programming with C++</p>
+<p>MATH 42: Data Driven Mathematical Modeling</p>
+<p>STATS 101A: Introduction to Data Analysis and Regression</p>
+<p>STATS 101C: Introduction to Statistical Models and Data Mining</p>
+<p>STATS 102A: Introduction to Computational Statistics with R</p>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -168,6 +160,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

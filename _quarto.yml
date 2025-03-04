@@ -7,15 +7,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+
+execute:
+  freeze: auto
 
 
 

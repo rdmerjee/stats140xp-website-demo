@@ -1,11 +1,21 @@
 ---
 title: "Rik Mukherjee"
+about:
+  template: trestles
+  image: profile-pic.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rdmerjee
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/rik-mukherjee/
+      icon: inbox-fill
+    - text: Email
+      url: "mailto:rmukherjee@g.ucla.edu"
+    - text: CV
+      url: "Rik_Mukherjee_Official_Resume_copy.pdf"
 ---
 
-This is a Quarto website.
+Education: UCLA, Statistics and Data Science, Class of 2026
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm passionate about using data to drive insights and make informed decisions. I have experience in sports analytics, healthcare, and machine learning, and am eager to apply my skills in projects that have real-world applications. I am currently seeking internship opportunities to further develop my knowledge and contribute to a dynamic team. I am excited to collaborate, learn, and grow in the field of data science!

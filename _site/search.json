@@ -11,6 +11,41 @@
     "href": "index.html",
     "title": "Rik Mukherjee",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Education: UCLA, Statistics and Data Science, Class of 2026\nI’m passionate about using data to drive insights and make informed decisions. I have experience in sports analytics, healthcare, and machine learning, and am eager to apply my skills in projects that have real-world applications. I am currently seeking internship opportunities to further develop my knowledge and contribute to a dynamic team. I am excited to collaborate, learn, and grow in the field of data science!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "Do NBA Season Series Always Determine Playoff Series Outcomes?"
+  },
+  {
+    "objectID": "projects.html#bruin-sports-analytics",
+    "href": "projects.html#bruin-sports-analytics",
+    "title": "personal-website",
+    "section": "",
+    "text": "Do NBA Season Series Always Determine Playoff Series Outcomes?"
+  },
+  {
+    "objectID": "projects.html#university-of-michigan-school-of-public-health",
+    "href": "projects.html#university-of-michigan-school-of-public-health",
+    "title": "personal-website",
+    "section": "University of Michigan School of Public Health",
+    "text": "University of Michigan School of Public Health\nVariation in the diagnosis of noninvasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP)"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "personal-website",
+    "section": "",
+    "text": "STATS 20: Computational Statistics and Statistical Programming with R\nSTATS 21: Python & Technologies for Data Science\nPIC 10A: Programming with C++\nMATH 42: Data Driven Mathematical Modeling\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R"
+  },
+  {
+    "objectID": "courses.html#relevant-courses",
+    "href": "courses.html#relevant-courses",
+    "title": "personal-website",
+    "section": "",
+    "text": "STATS 20: Computational Statistics and Statistical Programming with R\nSTATS 21: Python & Technologies for Data Science\nPIC 10A: Programming with C++\nMATH 42: Data Driven Mathematical Modeling\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101C: Introduction to Statistical Models and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R"
   }
 ]

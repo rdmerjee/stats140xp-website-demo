@@ -1,0 +1,15 @@
+## Relevant Courses
+
+STATS 20: Computational Statistics and Statistical Programming with R
+
+STATS 21:  Python & Technologies for Data Science
+
+PIC 10A: Programming with C++
+
+MATH 42: Data Driven Mathematical Modeling
+
+STATS 101A: Introduction to Data Analysis and Regression
+
+STATS 101C: Introduction to Statistical Models and Data Mining
+
+STATS 102A: Introduction to Computational Statistics with R
